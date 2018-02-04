@@ -8,3 +8,4 @@
 
 ## TODO
 1. Implement React-router
+2. Loader 
